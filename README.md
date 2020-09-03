@@ -49,9 +49,9 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 * Create a report in Microsoft Word and answer the following questions.
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
-First from this graph, we can see that the category for theater has the highest number of successful projects, but the most successful rate is not the theater. Music has the most successful rate and journalism is not a good project to start with. 
-Secondly, from this graph, we can see plays has the highest number of successful, but not the most successful rate. And both rock and documentary have a 100% successful rate in the sub-category. 
-Last, from this graph, we can conclude the peak of successful projects is during May and June. Moreover, the canceled rate seems constant throughout all year, and it is under 50 through the whole year.
+* First from the first chart, we can see that the category for theater has the highest number of successful projects, but the most successful rate is not the theater. Music has the most successful rate and journalism is not a good project to start with. 
+* Secondly, from the second chart, we can see plays has the highest number of successful, but not the most successful rate. And both rock and documentary have a 100% successful rate in the sub-category. 
+* Last, from the third chart, we can conclude the peak of successful projects is during May and June. Moreover, the canceled rate seems constant throughout all year, and it is under 50 through the whole year.
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
 
