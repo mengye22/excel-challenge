@@ -53,6 +53,9 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 * Secondly, from the second chart, we can see plays has the highest number of successful, but not the most successful rate. And both rock and documentary have a 100% successful rate in the sub-category. 
 * Last, from the third chart, we can conclude the peak of successful projects is during May and June. Moreover, the canceled rate seems constant throughout all year, and it is under 50 through the whole year.
 2. What are some limitations of this dataset?
+* The dataset could be incomplete, since lots of fail and canceled state have 0 funds.
+* Lacks of previous data comparison. 
+
 3. What are some other possible tables and/or graphs that we could create?
 
 ## Addition
