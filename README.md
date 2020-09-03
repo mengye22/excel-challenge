@@ -57,6 +57,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 * Lacks of previous data comparison. 
 
 3. What are some other possible tables and/or graphs that we could create?
+* We can try to graph with and without the most popular category in each of the pivot tables. In this way, we can see how the rest of the data are related to each other. Also, we can graph the most successful rate with the lowest successful rate, and see if there is relation or correlation between them. Moreover, we learned about median, mean and mood, we can find all of them, and compare to see what is better data to use for  analysis. 
 
 ## Addition
 
